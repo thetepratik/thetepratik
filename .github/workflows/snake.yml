@@ -14,10 +14,10 @@ runs-on: ubuntu-latest
 
 ```
 steps:
-  - name: Checkout
+  - name: Checkout repository
     uses: actions/checkout@v4
 
-  - name: Generate Snake
+  - name: Generate snake animation
     uses: Platane/snk@v3
     with:
       github_user_name: thetepratik
@@ -25,7 +25,7 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Deploy to branch
+  - name: Deploy to output branch
     uses: crazy-max/ghaction-github-pages@v4
     with:
       target_branch: output
