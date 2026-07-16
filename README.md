@@ -41,7 +41,7 @@ const pratikThete = {
 - 👯 Open to collaborate on **full-stack & AI/ML projects**
 - 💼 Looking for **Full-Stack Developer / AI-ML Intern** opportunities
 - 💬 Ask me about **React, Node.js, MongoDB, or Scikit-Learn**
-- 📫 Reach me at **pratikthete77@gmail.com**
+- 📫 Reach me at **pratik.1252010016@vit.edu**
 
 <br clear="right"/>
 
