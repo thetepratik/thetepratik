@@ -94,12 +94,12 @@ const pratikThete = {
 
 <div align="center">
 
-<a href="https://github.com/thetepratik" target="_blank">
+<!-- <a href="https://github.com/thetepratik" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetepratik&repo=collaborative-code-editor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" width="48%"/>
 </a>
 <a href="https://github.com/thetepratik" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=thetepratik&repo=college-recommendation-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff" width="48%"/>
-</a>
+</a> -->
 
 </div>
 
@@ -109,7 +109,7 @@ const pratikThete = {
 | 💻 **Real-Time Collaborative Code Editor** | Multi-user code editor with live sync, Monaco integration & AI code assistance | React.js, Node.js, Socket.IO, JWT, MongoDB |
 | 🤖 **AI Student Performance Monitoring & Career Suggestion** | AI academic assistant generating study roadmaps & career guidance via NLP | Python, FastAPI, React.js, Machine Learning |
 
-> 🔗 *Update the repo names above (`repo=...`) to match your actual GitHub repository names so the project cards render correctly.*
+> 
 
 ---
 
