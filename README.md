@@ -28,11 +28,11 @@ const pratikThete = {
   education:     "B.Tech AI & Data Science, VIT Pune (CGPA: 9.45/10)",
   languages:     ["JavaScript", "Python", "C", "C++", "Java"],
   frontend:      ["React.js", "HTML5", "CSS3"],
-  backend:       ["Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets"],
+  backend:       ["FastAPI", "Node.js", "Express.js", "REST APIs", "WebSockets"],
   databases:     ["MongoDB", "MySQL"],
   machineLearning: ["Pandas", "NumPy", "Scikit-Learn", "NLP basics"],
   currentFocus:  "Building scalable MERN apps & AI-powered systems",
-  funFact:       "200+ DSA problems solved on LeetCode & GFG 🧩"
+  funFact:       "300+ DSA problems solved on LeetCode & GFG 🧩"
 };
 ```
 
